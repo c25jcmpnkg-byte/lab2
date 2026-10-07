@@ -20,7 +20,7 @@
 Результаты: `output_detection/`, `output_segmentation/`.
 
 ## Задание 5. GIF (детекция)
-Результат: [detection.gif](./detection.gif)
+Результат: [detection.gif](./detection_small.gif)
 
 ## Задание 6. GIF (сегментация)
 Результат: [segmentation.gif](./segmentation.gif)
